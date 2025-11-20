@@ -38,7 +38,7 @@ Here are some of my projects that you can explore:
 ---
 
 ## 📫 Contact Me
-- Email: hassnainidrees@example.com  
+- Email: hassnainidrees@gmail.com  
 - LinkedIn: https://github.com/Hassnain-Idrees
 
 ---
